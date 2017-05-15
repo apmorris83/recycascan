@@ -16,6 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 To run this project you will need node v7.4.0 installed on your machine.
 ### Installing
 Please follow this step by step guide to get a development env running.
+
 Clone the repo
 ```
 git clone https://github.com/apmorris83/recycascan.git
