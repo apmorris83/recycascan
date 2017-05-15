@@ -7,7 +7,7 @@ Make sure you allow installation of apps from sources other than the Play Store 
 ![screenshot_20170515-110349](https://cloud.githubusercontent.com/assets/24876693/26053152/a8a643c8-395f-11e7-8dc2-c451489aae43.png)
 Go to the following link from your device
 ```
-https://recycascan.herokuapp.com/recycascan.apk
+<https://recycascan.herokuapp.com/recycascan.apk>
 ```
 Recycascan will automatically download onto your device
 ## Running on a local machine
