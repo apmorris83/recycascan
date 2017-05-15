@@ -1,5 +1,8 @@
 # Recycascan
 I came up with the idea for a recycling mobile app that allows a user to scan the barcode of waste packaging and inform how to recycle it. The app also has a calendar feature showing the user’s next bin collections and a map feature showing their nearest local recycling centres. Building the frontend involved learning React Native, and the backend was built using MongoDB and hosted using Heroku. I also designed the logo and graphics for the whole app.
+
+![screenshots_for_readme](https://cloud.githubusercontent.com/assets/24876693/26061979/69ba0416-3981-11e7-875b-3f618ef1a46b.png)
+
 ## Download on your mobile device
 If you have an Android device, you can download the app straight to it.
 
