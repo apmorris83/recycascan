@@ -3,6 +3,9 @@ I came up with the idea for a recycling mobile app that allows a user to scan th
 
 ![screenshots_for_readme](https://cloud.githubusercontent.com/assets/24876693/26061979/69ba0416-3981-11e7-875b-3f618ef1a46b.png)
 
+## View a demonstration of Recycascan
+https://www.youtube.com/watch?v=IUdKmzv3k6M
+
 ## Download on your mobile device
 If you have an Android device, you can download the app straight to it.
 
