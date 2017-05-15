@@ -4,7 +4,6 @@ import Camera from 'react-native-camera';
 import axios from 'axios';
 import _ from 'underscore';
 
-// const ROOT = 'https://gentle-escarpment-88131.herokuapp.com/api/products';
 const ROOT = 'https://world.openfoodfacts.org/api/v0/product/';
 const scanned = {};
 
@@ -13,7 +12,6 @@ export default class Barcode extends Component {
     super(props);
     this.state = {};
   }
-
   componentDidMount() {
     AsyncStorage.getItem('userDetails', (err, result) => {
       let val = JSON.parse(result);
@@ -68,7 +66,6 @@ function getName (EAN) {
   axios
     .get(`${ROOT}/${EAN}`)
     .then(function scanBarcode (data) {
-      // alert(`${data.data.products[0].name} (${EAN}) Packaging: ${data.data.products[0].packaging}`)
       alert(`${data.data.product.product_name} (${EAN}) Packaging: ${data.data.product.packaging}`)
     })
     .catch(function (err) {
