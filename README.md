@@ -33,6 +33,9 @@ Run on Android
 ```
 react-native run-android
 ```
+## Recycascan API
+To view and run the backend of Recycascan, please go to the link below and follow the readme instructions
+* [Recycascan API](https://github.com/apmorris83/recycascan-api)
 ## Built With
 * [React Native](https://facebook.github.io/react-native/) - Build native mobile apps using JavaScript and React
 * [react-native-camera](https://github.com/lwansbrough/react-native-camera) - A Camera component for React Native
